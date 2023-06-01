@@ -1,7 +1,6 @@
 <img src= "https://hackernoon.com/images/f2px36fy.gif" width="100%" height=350px>
 
 <h1 align="center">My name is Alora Greer</h1>
-<p align="center"><img src ="https://i.pinimg.com/originals/d2/4d/db/d24ddb8271b8ea9b4bbf4b67df8cbc01.gif" width=60px height=60px></p>
 <h3 align="center">Programmer Intern and Computer Science student.</h3>
 
 
@@ -22,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloralove&show_icons=true&locale=en&layout=compact" alt="aloralove" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloralove&show_icons=true&locale=en" alt="aloralove" /></p>
+<p> <img align="right" src ="https://i.pinimg.com/originals/d2/4d/db/d24ddb8271b8ea9b4bbf4b67df8cbc01.gif" width=60px height=60px></p>
