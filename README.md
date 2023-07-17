@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Cloud Computing Services**
 
 - 📫 How to reach me **agreer5@alaska.edu**
 
