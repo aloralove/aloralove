@@ -1,7 +1,7 @@
 <img src= "https://hackernoon.com/images/f2px36fy.gif" width="100%" height=350px>
 
 <h1 align="center">My name is Alora Greer</h1>
-<h3 align="center">Programmer Intern and Computer Science student.</h3>
+<h3 align="center">Web Dev Intern and Computer Science student.</h3>
 
 
 
