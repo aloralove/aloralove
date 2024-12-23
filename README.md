@@ -1,6 +1,6 @@
 # 👋 Welcome to My Work & College GitHub!
 
-I'm **Alora Greer**, a Developer at the **Alaska Center for Energy and Power (ACEP)** at the **University of Alaska Fairbanks (UAF)**.  
+I'm **Alora Greer**, a Junior Systems Developer | Building Expertise in Infrastructure, DevOps, and Automation at the **Alaska Center for Energy and Power (ACEP)** at the **University of Alaska Fairbanks (UAF)**.  
 This GitHub showcases projects I’ve worked on at ACEP, during my time at the **University of Alaska Anchorage (UAA)**, including my internships.  
 
 ---
