@@ -43,19 +43,6 @@ I'm a Junior Systems Developer at the **Alaska Center for Energy and Power (ACEP
 
 ---
 
-### 📂 **Featured Projects**
-#### **Monitoring System for File Transfers**
-- **Description**: A Ruby on Rails application that tracks file transfers between servers and identifies issues in data archiving.  
-- **Technologies**: Ruby on Rails, PostgreSQL, Docker, MQTT  
-- **Purpose**: Supports ACEP’s energy research by ensuring reliable data management.
-
-#### **Data Pipeline Automation**
-- **Description**: Automated workflows for processing and validating real-time energy data using Chef and Bash.  
-- **Technologies**: Chef, Bash, Docker, Redis  
-- **Purpose**: Streamlined ACEP’s research workflows by reducing manual intervention.
-
----
-
 ### 🌟 **Let’s Connect**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/alora-greer)  
 📧 **Work Email**: [agreer5@alaska.edu](mailto:agreer5@alaska.edu)  
