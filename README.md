@@ -1,36 +1,65 @@
-# 👋 Welcome to My Work & College GitHub!
+# 👋 **Hello, I'm Alora Greer!**
 
-I'm **Alora Greer**, a Junior Systems Developer | Building Expertise in Infrastructure, DevOps, and Automation at the **Alaska Center for Energy and Power (ACEP)** at the **University of Alaska Fairbanks (UAF)**.  
-This GitHub showcases projects I’ve worked on at ACEP, during my time at the **University of Alaska Anchorage (UAA)**, including my internships.  
+**Junior Systems Developer** | **Infrastructure, DevOps, and Automation** | **Growth Mindset**
 
----
-
-### 🔥 **What You'll Find Here**
-- **ACEP Projects**: Custom software and tools supporting energy research, including data pipelines, MQTT integrations, and Rails web applications. (All within the Universities GitHub Org)
-- **University Coursework (UAA)**: Academic assignments, and personal growth projects while earning my **B.S. in Computer Science**.  
-- **Internships & Early Projects**: Code from early roles and projects, reflecting my development journey as a software engineer.  
+🌟 Creating resilient systems to support impactful energy research.  
 
 ---
 
-### 🚀 **Technologies I Use**
-- **DevOps**: Docker, Portainer, GitHub Actions, Chef, BASH
-- **Back End**: Ruby on Rails, PostgreSQL, Redis, Go, NodeJS  
-- **Front End**: HTML/HAML, SCSS/CSS, JavaScript/TypeScript, Angular  
-- **Other Tools**: MQTT, Chart.js, and DataTables.js
+### 🚀 **About Me**
+I'm a Junior Systems Developer at the **Alaska Center for Energy and Power (ACEP)**, part of the **University of Alaska Fairbanks (UAF)**. My work focuses on developing tools for system reliability, automation, and data integration using modern DevOps practices.
+
+- 💻 **Current Focus**: Building monitoring systems with Ruby on Rails, automating workflows with Chef and Bash, and managing containerized environments with Docker.  
+- 🎓 **Education**: Bachelor of Science in Computer Science from the **University of Alaska Anchorage (UAA)**.  
+- 🌱  **Growth Mindset**: Continuously exploring new tools like Terraform and Kubernetes to expand my expertise in infrastructure and automation.
 
 ---
 
-### 🌟 **Want to See My Personal Projects?**
-I keep a clean, curated portfolio of personal side projects on my separate GitHub. Check it out here:  
-🔗 [My Personal GitHub](https://github.com/alorapersonal)  
+### 🚀 **Tech Stack**
+
+**🛠 DevOps & Automation**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-%23f29111.svg?style=flat-square&logo=chef&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
+
+**🔧 Backend Development**  
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+
+**🎨 Frontend Development**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+
+**📡 Specialized Tools**  
+![MQTT](https://img.shields.io/badge/MQTT-%23ff6600.svg?style=flat-square&logo=mqtt&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat-square&logo=chartdotjs&logoColor=white)
+![DataTables](https://img.shields.io/badge/DataTables-%23005A83.svg?style=flat-square)
 
 ---
 
-### 💬 **Want to Connect?**
-📧 **Work Email** [agreer5@alaska.edu](mailto:agreer5@alaska.edu)
+### 📂 **Featured Projects**
+#### **Monitoring System for File Transfers**
+- **Description**: A Ruby on Rails application that tracks file transfers between servers and identifies issues in data archiving.  
+- **Technologies**: Ruby on Rails, PostgreSQL, Docker, MQTT  
+- **Purpose**: Supports ACEP’s energy research by ensuring reliable data management.
 
-📧 **Email**: [alora.greer@gmail.com](mailto:alora.greer@gmail.com)  
+#### **Data Pipeline Automation**
+- **Description**: Automated workflows for processing and validating real-time energy data using Chef and Bash.  
+- **Technologies**: Chef, Bash, Docker, Redis  
+- **Purpose**: Streamlined ACEP’s research workflows by reducing manual intervention.
 
-🌐 **LinkedIn**: [Alora Greer](https://linkedin.com/in/alora-greer)  
+---
 
-Thanks for visiting! Feel free to check out my pinned repositories or connect with me.
+### 🌟 **Let’s Connect**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/alora-greer)  
+📧 **Work Email**: [agreer5@alaska.edu](mailto:agreer5@alaska.edu)  
+📧 **Personal Email**: [alora.greer@gmail.com](mailto:alora.greer@gmail.com)
+
+---
+
