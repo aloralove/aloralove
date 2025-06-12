@@ -9,7 +9,6 @@
 ### 🚀 **About Me**
 I'm a Junior Systems Developer at the **Alaska Center for Energy and Power (ACEP)**, part of the **University of Alaska Fairbanks (UAF)**. My work focuses on developing tools for system reliability, automation, and data integration using modern DevOps practices.
 
-- 💻 **Current Focus**: Building monitoring systems with Ruby on Rails, automating workflows with Chef and Bash, and managing containerized environments with Docker.  
 - 🎓 **Education**: Bachelor of Science in Computer Science from the **University of Alaska Anchorage (UAA)**.  
 - 🌱  **Growth Mindset**: Continuously exploring new tools like Terraform and Kubernetes to expand my expertise in infrastructure and automation.
 
