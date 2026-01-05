@@ -1,20 +1,7 @@
 # 👋 **Hello, I'm Alora Greer!**
 
-**Junior Systems Developer** | **Infrastructure, DevOps, and Automation** | **Growth Mindset**
+**Infrastructure & DevOps** | **Growth Mindset**
 
-🌟 Creating resilient systems to support impactful energy research.  
-
----
-
-### 🚀 **About Me**
-I'm a Junior Systems Developer at the **Alaska Center for Energy and Power (ACEP)**, part of the **University of Alaska Fairbanks (UAF)**. My work focuses on developing tools for system reliability, automation, and data integration using modern DevOps practices.
-
-- 🎓 **Education**: Bachelor of Science in Computer Science from the **University of Alaska Anchorage (UAA)**.  
-- 🌱  **Growth Mindset**: Continuously exploring new tools like Terraform and Kubernetes to expand my expertise in infrastructure and automation.
-
----
-
-### 🚀 **Tech Stack**
 
 **🛠 DevOps & Automation**  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
